@@ -1,0 +1,62 @@
+#section1{
+    /* border:2px solid red; */
+    height: 110vh;
+}
+#section1 div:first-child{
+    /* border:5px solid rgb(12, 12, 211); */
+    width:55%;
+    height: 100%;
+}
+#section1 div:first-child img{
+    /* border: 5px solid green; */
+    margin: 80px 0px 10px 150px;
+    width: 70%;
+    
+}
+#section1 div:last-child{
+    /* border: 5px solid rgb(42, 246, 15); */
+    height: 120%;
+    
+    position: absolute;
+    left:55%;
+    top:140%;
+    
+    
+}
+#section1 div:last-child h1 {
+    font-size: 60px;
+    margin-top: 40%;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+
+}
+#section1 div:last-child p{
+    margin-top: 5%;
+    margin-left: 100px;
+    margin-right: 180px;
+    
+}
+#section1 div:last-child button{
+    /* border:2px solid red; */
+    color: white;
+    font-weight: bolder;
+    background-color: black;
+}
+#section1 div:last-child button:hover{
+    background-color: rgb(27, 26, 26);
+}
+
+#section1 div:last-child span{
+    border-bottom:4px groove rgb(196, 193, 193);
+   font-size: 20px;
+   position: absolute;
+   left:38%;
+   margin-top: 70px;  
+    
+}
+#section1 div:last-child span:hover{
+    border-bottom: 4px groove black;
+}
+
+
