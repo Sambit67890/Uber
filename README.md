@@ -12,12 +12,12 @@ This Uber clone UI project replicates the basic design and functionality of a ri
 
 ## Features
 
-- 🔍 Input fields for pickup and destination
-- 🚕 Ride options like UberGo, UberX, UberXL
-- 🖱️ Interactive buttons
-- 🎨 Stylish and clean UI
-- 📱 Fully responsive design
-- 💡 Easy to customize
+- Input fields for pickup and destination
+- Ride options like UberGo, UberX, UberXL
+- Interactive buttons
+- Stylish and clean UI
+- Fully responsive design
+- Easy to customize
 
 ---
 
