@@ -1,6 +1,6 @@
 # Uber Clone (Front-End UI)
 
-A **simple front-end clone** of the Uber ride booking platform built using **HTML**, **CSS**, and **JavaScript**. This project is a beginner-friendly practice of UI design, layout structuring, and responsive styling.
+A **simple front-end clone** of the Uber ride booking platform built using **HTML**, **CSS**. This project is a beginner-friendly practice of UI design, layout structuring, and responsive styling.
 
 ---
 
